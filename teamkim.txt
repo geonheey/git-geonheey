@@ -2,6 +2,8 @@ team: Kim
 
 captain: Jeong
 
+coach: Taeyoung
+
 members:
 - Seong
 - Min

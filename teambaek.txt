@@ -2,6 +2,8 @@ team: Baek
 
 captain: Seungho
 
+coach: Sujin
+
 members:
 - Juho
 - Cheol
