@@ -6,3 +6,4 @@ members:
 - Juho
 - Cheol
 - Yong
+- Sangjin
