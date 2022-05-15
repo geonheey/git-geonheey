@@ -1,8 +1,0 @@
-team: Kang
-
-captain: Kangin
-
-members:
-- Seungwoo
-- Minjae
-- Hynwoo

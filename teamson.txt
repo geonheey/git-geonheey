@@ -1,6 +1,6 @@
 team: Son
 
-captain: Heungmin
+captain: Son Heungmin
 
 members:
 - Heechan

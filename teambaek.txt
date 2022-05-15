@@ -1,0 +1,8 @@
+team: Baek
+
+captain: Seungho
+
+members:
+- Juho
+- Cheol
+- Yonh
