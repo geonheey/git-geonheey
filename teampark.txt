@@ -1,0 +1,8 @@
+team: Park
+
+captain: Hyunsu
+
+members:
+- Suho
+- Dong
+- Unho
