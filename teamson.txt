@@ -2,6 +2,8 @@ team: Son
 
 captain: Son Heungmin
 
+coach: George
+
 members:
 - Heechan
 - Uijo
