@@ -1,0 +1,8 @@
+team: Lee
+
+captain: Lee Dongjun
+
+members:
+- Jisu
+- Hong
+- Mingyu
