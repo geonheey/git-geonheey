@@ -1,0 +1,8 @@
+team: Son
+
+captain: Heungmin
+
+members:
+- Heechan
+- Uijo
+- Seungkyu
