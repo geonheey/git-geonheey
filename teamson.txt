@@ -9,5 +9,4 @@ members:
 - Uijo
 - Seungkyu
 - Taeho
-- Dongho
 - Jonghyuk
