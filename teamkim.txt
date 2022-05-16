@@ -1,6 +1,6 @@
 team: Kim
 
-captain: Jeong
+captain: Young
 
 coach: Taeyoung
 
