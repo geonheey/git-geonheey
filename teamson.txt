@@ -2,7 +2,7 @@ team: Son
 
 captain: Son Heungmin
 
-coach: David
+coach: Son Woongjung
 
 members:
 - Heechan
