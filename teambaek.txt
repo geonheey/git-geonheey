@@ -7,5 +7,5 @@ coach: Jeno
 members:
 - Juho
 - Cheol
-- Yong
 - Sangjin
+- Bang
