@@ -6,4 +6,4 @@ members:
 - Hyuk
 - Jiho
 - Chan
-- Su
+- Soo

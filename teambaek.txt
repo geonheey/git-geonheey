@@ -2,7 +2,7 @@ team: Baek
 
 captain: Seungho
 
-coach: Jaemin
+coach: Jeno
 
 members:
 - Juho
